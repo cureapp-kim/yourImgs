@@ -1,0 +1,19 @@
+{
+    "pics": [
+      {
+        "id": "1",
+        "isUsed": true,
+        "urd": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "id": "2",
+        "isUsed": false,
+        "url": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
+      },
+      {
+        "id": "3",
+        "isUsed": false,
+        "url": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+      }
+    ]
+}
